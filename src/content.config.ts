@@ -32,4 +32,23 @@ const drinks = defineCollection({
   }),
 });
 
-export const collections = { dolci, salati, drinks };
+const pasta = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/pasta' }),
+  schema: menuItemSchema.extend({
+    day: z
+      .enum(['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday'])
+      .optional(),
+  }),
+});
+
+const pinsa = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/pinsa' }),
+  schema: menuItemSchema,
+});
+
+const piadina = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/piadina' }),
+  schema: menuItemSchema,
+});
+
+export const collections = { dolci, salati, drinks, pasta, pinsa, piadina };
