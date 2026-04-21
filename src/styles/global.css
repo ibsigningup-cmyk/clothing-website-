@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: theme('fontFamily.sans');
+    color: theme('colors.charcoal');
+    background-color: theme('colors.cream');
+  }
+
+  h1, h2, h3 {
+    font-family: theme('fontFamily.display');
+    font-weight: 500;
+  }
+}

@@ -1,0 +1,26 @@
+---
+import '@fontsource-variable/bodoni-moda';
+import '@fontsource-variable/inter-tight';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  lang?: 'en' | 'es' | 'it';
+}
+
+const { title, description = 'Crois — Croissant Café · Barcelona', lang = 'en' } = Astro.props;
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#F4E8D8" />
+    <title>{title}</title>
+  </head>
+  <body class="min-h-screen bg-cream text-charcoal">
+    <slot />
+  </body>
+</html>
