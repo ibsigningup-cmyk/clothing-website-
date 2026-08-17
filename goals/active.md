@@ -5,17 +5,26 @@ Last recalibrated: 2026-08-17 (run 2 — added chair restoration, expanded
 sewing into multiple projects, added travel handling).
 Weekly time available (stated): 10+ hours/week combined.
 
-Known constraint: travel within the next 2 weeks from 2026-08-17, under a
-week long — expect reduced capacity in that window; do not read as a slip.
-
 **Travel pattern (recurring):** roughly monthly, ~4 days per trip,
 typically known more than a few days ahead. While traveling:
 - Not flagged for silence: sewing & pattern-making, wood chair
   restoration, fitness.
 - Still flagged as normal: driving theory test, reading.
-- No currently-open travel window beyond the one noted above — update
-  this section with dates as soon as a trip is mentioned, per the
-  weekly check-in's constraint question.
+
+**Open travel window:** Belgium, **2026-08-27 to 2026-08-31** (5 days).
+This is the trip anticipated at onboarding, now with confirmed dates —
+sewing, chair restoration, and fitness are not flagged for silence during
+this window; driving theory test and reading stay flagged as normal.
+
+**Known busy stretch (not travel):** immersive project, **2026-09-08 to
+2026-09-10**. Not a travel window, so the travel-compatibility split
+above doesn't apply automatically — expect reduced capacity across all
+goals, but silence still gets flagged (per no-complacency), just with
+this constraint noted as context rather than treated as unexplained.
+Overlaps directly with the caftan's "second week of September" soft
+deadline (see below) — that squeeze is real, not hypothetical; if the
+caftan milestones aren't on track going into this stretch, say so before
+it starts, not after.
 
 Priority weighting this month: **sewing first**, others secondary but still
 tracked with full scrutiny (no-complacency rule applies regardless of
@@ -32,9 +41,10 @@ Update as soon as a date is confirmed, moved, or booked.
 
 | Date | What | Status |
 |---|---|---|
+| 2026-08-27 to 2026-08-31 | Travel — Belgium (5 days) | Confirmed |
 | 2026-09-02 | Caftan pattern-maker appointment | Confirmed |
-| Week of 2026-09-07 | Caftan (S-M) soft deadline | Target |
-| ~2026-08-17 to 2026-08-31 (exact dates TBC) | Travel, under a week long | Dates unconfirmed |
+| 2026-09-08 to 2026-09-10 | Busy stretch — immersive project (not travel) | Confirmed |
+| Week of 2026-09-07 | Caftan (S-M) soft deadline | Target — overlaps immersive project |
 | End of Dec 2026 | Driving theory test deadline (no exam booked) | Target |
 
 ---
@@ -75,6 +85,11 @@ about them until both active projects are complete.
   the second week of September 2026.
 - **Progress metric:** specific milestones (not hours).
 - **Last logged:** none yet (pre-first-entry).
+- **Scheduling risk:** the immersive project busy stretch (2026-09-08 to
+  2026-09-10) falls inside this soft-deadline week, cutting the usable
+  runway. Effective working window is really 2026-09-02 (appointment) to
+  2026-09-07, then 2026-09-11 to end of that week — tighter than "second
+  week of September" suggests at a glance.
 
 #### b. Bias top
 - **Status:** active, no detail given yet beyond the name — fill in stage
