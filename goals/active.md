@@ -17,14 +17,19 @@ sewing, chair restoration, and fitness are not flagged for silence during
 this window; driving theory test and reading stay flagged as normal.
 
 **Known busy stretch (not travel):** immersive project, **2026-09-08 to
-2026-09-10**. Not a travel window, so the travel-compatibility split
-above doesn't apply automatically — expect reduced capacity across all
-goals, but silence still gets flagged (per no-complacency), just with
-this constraint noted as context rather than treated as unexplained.
-Overlaps directly with the caftan's "second week of September" soft
-deadline (see below) — that squeeze is real, not hypothetical; if the
-caftan milestones aren't on track going into this stretch, say so before
-it starts, not after.
+2026-09-10**. By explicit request, all five goals are exempt from
+slip-flagging for this specific window — silence Sept 8-10 is expected,
+not a slip, across driving theory test, sewing, chair restoration,
+fitness, and reading alike. Flagging resumes as normal from Sept 11.
+This is a one-off, dated exemption tied to this stretch, not a standing
+policy — it doesn't relax no-complacency outside these three days, and a
+future busy stretch needs its own explicit call, not an assumed carry-over
+of this one.
+
+Still overlaps directly with the caftan's "second week of September" soft
+deadline (see below) — the exemption covers flagging, not the deadline
+itself. If the caftan isn't on track heading into Sept 8, that's still
+worth surfacing before the gap opens, not after.
 
 Priority weighting this month: **sewing first**, others secondary but still
 tracked with full scrutiny (no-complacency rule applies regardless of
@@ -43,8 +48,8 @@ Update as soon as a date is confirmed, moved, or booked.
 |---|---|---|
 | 2026-08-27 to 2026-08-31 | Travel — Belgium (5 days) | Confirmed |
 | 2026-09-02 | Caftan pattern-maker appointment | Confirmed |
-| 2026-09-08 to 2026-09-10 | Busy stretch — immersive project (not travel) | Confirmed |
-| Week of 2026-09-07 | Caftan (S-M) soft deadline | Target — overlaps immersive project |
+| 2026-09-08 to 2026-09-10 | Busy stretch — immersive project (not travel) | Confirmed — all goals exempt from flagging |
+| Week of 2026-09-07 | Caftan (S-M) soft deadline | Target — deadline still stands despite exemption above |
 | End of Dec 2026 | Driving theory test deadline (no exam booked) | Target |
 
 ---
@@ -89,7 +94,9 @@ about them until both active projects are complete.
   2026-09-10) falls inside this soft-deadline week, cutting the usable
   runway. Effective working window is really 2026-09-02 (appointment) to
   2026-09-07, then 2026-09-11 to end of that week — tighter than "second
-  week of September" suggests at a glance.
+  week of September" suggests at a glance. Slip-flagging is exempt for
+  Sept 8-10 (see top of file), but the soft deadline itself hasn't moved
+  — the exemption buys freedom from being flagged, not extra time.
 
 #### b. Bias top
 - **Status:** active, no detail given yet beyond the name — fill in stage
