@@ -6,20 +6,39 @@ reflective content exists only to improve the functional tracking, never as
 an end in itself.
 
 ## Goals
-1. **Driving theory test** — bounded, soft deadline: complete before
-   December 2026. No exam booked yet.
-2. **Sewing & pattern-making** — open-ended craft area covering multiple
+Display and daily-push order follows the actual order of the day (the
+"modal day pattern"): sewing first, then driving theory practice
+(Focusmate), then running, then reading. AOB always renders last,
+reflecting its lower-pressure "treat" status.
+
+1. **Sewing & pattern-making** — open-ended craft area covering multiple
    projects, tracked individually rather than as one blob. No fixed
    "done" at the category level. Active projects and a queue of not-yet-
    detailed ones both live in `/goals/active.md`.
-3. **Wood chair restoration** — 4 wood-and-straw cord chairs, tracked
-   per-chair against a shared milestone list (sanding, filling holes,
-   painting, cord cleaning). No deadline — explicitly a low-pressure
-   "treat" project, not a scheduled obligation. Still subject to the
-   no-complacency rule (see below); "treat" affects deadline pressure and
-   its slip threshold, not whether it gets tracked.
-4. **Fitness** — recurring habit, no completion state.
-5. **Reading** — recurring habit, no completion state.
+2. **Driving theory test** — bounded, soft deadline: complete before
+   December 2026. No exam booked yet.
+3. **Fitness** — recurring habit, no completion state. Currently running.
+4. **Reading** — recurring habit, no completion state.
+5. **AOB ("all other business")** — the catch-all for physical/craft
+   projects outside the four pillars above: wood chair restoration (4
+   chairs, tracked in two groups — see `/goals/active.md`), and whatever
+   follows it (a bench cushion is already queued for after the chairs).
+   No deadline by default — explicitly lower-pressure "treat" territory,
+   not scheduled obligations. Still subject to the no-complacency rule
+   (see below); "treat" affects deadline pressure and slip threshold, not
+   whether it gets tracked. One-off bounded tasks (e.g. a specific home
+   project) can be added here, or under whichever pillar they naturally
+   fit, without triggering a full recalibration — see "Near-term bounded
+   items" below.
+
+### Near-term bounded items
+Not every tracked thing is a standing goal. A short-lived, dated task
+(a home project, trip-prep research) can be added directly to
+`/goals/active.md` under the pillar it's closest to in spirit, with its
+own end date, without re-running the questionnaire — this is lighter
+than a recalibration, closer to a temporary priority override. It expires
+on its stated date; after that, priority weighting reverts to whatever
+stood before it unless the weekly check-in says otherwise.
 
 ## Known pitfalls
 - **Doomscrolling / browsing on waking.** Stated primary time-management
@@ -29,12 +48,14 @@ an end in itself.
   procrastination.
 - **Countermeasure:** the daily push exists to interrupt this window, not
   just log it afterward. The daily message should explicitly prompt
-  starting sewing (the current priority goal) very soon after waking and
-  checking into the PA system — before browsing gets a chance to take
-  hold — rather than treating the check-in itself as the day's task and
-  deferring actual goal work to later. If a daily entry reports that the
-  morning went to browsing instead, state that plainly per the
-  no-complacency rule; don't treat it as a one-off.
+  starting on whatever currently holds top priority weighting in
+  `/goals/active.md` — not necessarily sewing; check what's actually
+  first before writing the message — very soon after waking and checking
+  into the PA system, before browsing gets a chance to take hold, rather
+  than treating the check-in itself as the day's task and deferring
+  actual goal work to later. If a daily entry reports that the morning
+  went to browsing instead, state that plainly per the no-complacency
+  rule; don't treat it as a one-off.
 
 ## Travel
 Frequent, not occasional: roughly monthly trips, ~4 days long, typically
@@ -109,10 +130,13 @@ struggling — not less.
   reframing it as fine. This is an instruction about output, not a
   personality trait.
 - Per the doomscrolling pitfall above: the message should push toward
-  starting sewing work immediately, not just ask for a status update.
-  Lead with the next concrete sewing action (from the milestone list in
-  `/goals/active.md`), not a generic "how's it going" — the goal is to
-  get hands on the current task before browsing fills the window.
+  starting immediately on whatever holds top priority, not just ask for a
+  status update. Lead with that goal's next concrete action (from its
+  milestone list in `/goals/active.md`), not a generic "how's it going"
+  — the goal is to get hands on the current task before browsing fills
+  the window. This is usually sewing, but check current priority
+  weighting rather than assuming — it shifts (e.g. a near-term bounded
+  item can temporarily take over).
 
 ### Weekly check-in
 Also delivered proactively, once a week. Two parts, in this order:
@@ -138,26 +162,41 @@ files stay the source of truth. Two views:
 
 ### Now view
 - **The one thing:** a single next concrete action, not a status list.
-  Computed from priority weighting + nearest deadline — currently the
-  next unchecked milestone on the caftan (see Sewing & pattern-making).
-  Recompute this as priority weighting shifts; don't hardcode it to one
-  goal permanently.
+  Computed from priority weighting + nearest deadline — read whatever
+  `/goals/active.md` currently states as top priority; never hardcode a
+  specific goal or project here, since weighting shifts (a near-term
+  bounded item, a recalibration).
 - **Countdown cards:** nearest dated commitments, pulled from the "Key
   dates" block in `/goals/active.md`, each with its status.
 - **Due now:** a short cross-goal list of anything overdue or imminent —
   distinct from the daily push's skeleton, this is a standing view.
 
 ### Category views
-- **Project-based goals** (sewing projects, each of the 4 chairs):
+Sections render in the modal-day order from Goals above (sewing, driving
+theory, running, reading), with AOB always last regardless of priority
+weighting — its bottom position reflects its "treat" status, not urgency.
+
+- **Project-based goals** (sewing projects; AOB's chair restoration):
   rendered as a segmented progress bar against that project's milestone
   list, plus an expandable checklist (done / current / not started).
+  Chair restoration renders as two groups, not four individual chairs:
+  "Chairs 1-3" (collapsed/combined progress) and "Chair 4" (kept
+  separate — it's deliberately done last and untouched, as a reference
+  for original colour and finish, not because it's behind).
 - **Recurring goals** (driving theory test, fitness, reading): rendered
   as streak/pace stats (days logged vs. silent, current streak or slip),
   not a progress bar — they have no discrete milestones to segment.
 - **Dependency blocking:** queued sewing projects (wool trousers, poplin
   trousers, raglan sleeve coat) render as blocked until both the caftan
   and bias top are marked complete — show this in the view itself, not
-  just as a text note.
+  just as a text note. Same treatment for AOB's queued bench cushion,
+  blocked until the chairs are done.
+- **Color-coding:** each category gets a fixed accent — sewing (blue),
+  driving theory (violet), running (aqua), reading (magenta), AOB
+  (orange) — applied consistently across cards, progress bars, and
+  section headers so a goal is identifiable by color at a glance. Status
+  colors (confirmed/target/warning/blocked) stay a separate palette from
+  these — never reuse a category color for status, or vice versa.
 
 Generated on request until the scheduled-push mechanism (see Push
 cadence) exists; once it does, the same rendering logic can back it.

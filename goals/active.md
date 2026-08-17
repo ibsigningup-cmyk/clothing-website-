@@ -1,44 +1,58 @@
 # Active goals
 
 Last calibrated: 2026-08-17 (initial onboarding, run 1).
-Last recalibrated: 2026-08-17 (run 2 — added chair restoration, expanded
-sewing into multiple projects, added travel handling).
+Last recalibrated: 2026-08-18 (run 3 — display order, AOB category +
+color-coding, chair regrouping, near-term priority override).
 Weekly time available (stated): 10+ hours/week combined.
+
+Display order (modal day pattern): **sewing → driving theory → running →
+reading → AOB** (AOB always last — "treat" status, not urgency).
 
 **Travel pattern (recurring):** roughly monthly, ~4 days per trip,
 typically known more than a few days ahead. While traveling:
-- Not flagged for silence: sewing & pattern-making, wood chair
-  restoration, fitness.
+- Not flagged for silence: sewing & pattern-making, AOB (chairs), running.
 - Still flagged as normal: driving theory test, reading.
 
 **Open travel window:** Belgium, **2026-08-27 to 2026-08-31** (5 days).
 This is the trip anticipated at onboarding, now with confirmed dates —
-sewing, chair restoration, and fitness are not flagged for silence during
-this window; driving theory test and reading stay flagged as normal.
+sewing, AOB, and running are not flagged for silence during this window;
+driving theory test and reading stay flagged as normal.
 
 **Known busy stretch (not travel):** immersive project, **2026-09-08 to
-2026-09-10**. By explicit request, all five goals are exempt from
+2026-09-10**. By explicit request, all goals are exempt from
 slip-flagging for this specific window — silence Sept 8-10 is expected,
-not a slip, across driving theory test, sewing, chair restoration,
-fitness, and reading alike. Flagging resumes as normal from Sept 11.
-This is a one-off, dated exemption tied to this stretch, not a standing
-policy — it doesn't relax no-complacency outside these three days, and a
-future busy stretch needs its own explicit call, not an assumed carry-over
-of this one.
+not a slip, across every category. Flagging resumes as normal from Sept
+11. This is a one-off, dated exemption tied to this stretch, not a
+standing policy — it doesn't relax no-complacency outside these three
+days, and a future busy stretch needs its own explicit call, not an
+assumed carry-over of this one.
 
 Still overlaps directly with the caftan's "second week of September" soft
 deadline (see below) — the exemption covers flagging, not the deadline
 itself. If the caftan isn't on track heading into Sept 8, that's still
 worth surfacing before the gap opens, not after.
 
-Priority weighting this month: **sewing first**, others secondary but still
-tracked with full scrutiny (no-complacency rule applies regardless of
-weighting).
+## Near-term priority override (until 2026-08-27)
+Two goals hold top priority through the day before Belgium travel begins,
+**superseding "sewing first" for this window only**:
+
+1. **Grandmother's house** (AOB) — rearrange the paintings; fill and
+   paint over the wall holes.
+2. **Renaissance study notes** (Reading) — Northern and Venetian
+   Renaissance, with special focus on the Ghent Altarpiece. Direct trip
+   prep — the altarpiece is in Ghent, on the Belgium itinerary.
+
+Both are bounded, dated items — see their category sections below for
+milestones. Standing goals (sewing, driving theory, running, ongoing
+reading) stay tracked at their normal slip thresholds during this window;
+they're just not what the daily "one thing" points to. **From
+2026-08-27, priority weighting reverts to sewing-first** (the standing
+monthly weighting) unless the next weekly check-in says otherwise.
 
 Known pitfall: doomscrolling / browsing on waking, before any goal work
-happens. Daily push should prompt starting sewing immediately after
-waking and checking in — see sewing goal notes below and the "Known
-pitfalls" section in CLAUDE.md.
+happens. Daily push should prompt starting on whatever currently holds
+top priority (right now: the near-term items above) immediately after
+waking and checking in — see the "Known pitfalls" section in CLAUDE.md.
 
 ## Key dates
 Dated commitments across all goals, for the dashboard's countdown cards.
@@ -46,34 +60,22 @@ Update as soon as a date is confirmed, moved, or booked.
 
 | Date | What | Status |
 |---|---|---|
+| 2026-08-27 | Near-term priority items due (grandmother's house, Renaissance notes) | Target |
 | 2026-08-27 to 2026-08-31 | Travel — Belgium (5 days) | Confirmed |
 | 2026-09-02 | Caftan pattern-maker appointment | Confirmed |
 | 2026-09-08 to 2026-09-10 | Busy stretch — immersive project (not travel) | Confirmed — all goals exempt from flagging |
-| Week of 2026-09-07 | Caftan (S-M) soft deadline | Target — deadline still stands despite exemption above |
+| Week of 2026-09-07 | Caftan (S-M) soft deadline | Target — overlaps immersive project |
 | End of Dec 2026 | Driving theory test deadline (no exam booked) | Target |
 
 ---
 
-## 1. Driving theory test
-- **Status:** just starting. No exam booked.
-- **Deadline:** complete before December 2026 (~19 weeks remaining from
-  2026-08-17).
-- **Study method:** has a driving theory app but doesn't use it — this
-  system replaces it, no integration/sync.
-- **Target pace:** 3-5 hours/week.
-- **Slip threshold:** 2 days of silence before flagged.
-- **Travel handling:** travel-compatible — stays flagged as normal during
-  travel windows.
-- **Last logged:** none yet (pre-first-entry).
-- **Notes:** at "just starting" with ~19 weeks left and a 3-5 hr/week
-  target, needs roughly 60-95 hours of study logged by end of Dec 2026 if
-  that target holds. Watch pace weekly, not just streak. Study blocks are
-  booked weekly as 50-minute Focusmate sessions.
-
-## 2. Sewing & pattern-making
+## 1. Sewing & pattern-making
 Multiple projects, tracked individually. Only the active projects below
 carry detail; the queued ones are deliberately undetailed — do not ask
 about them until both active projects are complete.
+
+Standing priority (sewing-first) is superseded through 2026-08-27 by the
+near-term items above; resumes as the "one thing" from 2026-08-27.
 
 ### Active
 #### a. Caftan (size S-M, priority project) — 0/4 milestones
@@ -95,8 +97,7 @@ about them until both active projects are complete.
   runway. Effective working window is really 2026-09-02 (appointment) to
   2026-09-07, then 2026-09-11 to end of that week — tighter than "second
   week of September" suggests at a glance. Slip-flagging is exempt for
-  Sept 8-10 (see top of file), but the soft deadline itself hasn't moved
-  — the exemption buys freedom from being flagged, not extra time.
+  Sept 8-10, but the soft deadline itself hasn't moved.
 
 #### b. Bias top
 - **Status:** active, no detail given yet beyond the name — fill in stage
@@ -114,6 +115,7 @@ blocked, not just absent, in the dashboard.
 - Raglan sleeve coat
 
 ### Goal-level
+- **Color:** blue.
 - **Slip threshold:** 1 day of silence before flagged (applies across
   whichever project is currently active).
 - **Travel handling:** travel-incompatible — not flagged for silence
@@ -121,24 +123,97 @@ blocked, not just absent, in the dashboard.
 - **Notes:** open-ended craft area overall, but the caftan carries a real
   near-term deadline (appointment + soft target) driving current
   priority. Track against its milestone list, not a vague "worked on it."
-  This is also the goal used to counter the doomscrolling pitfall: the
-  intent is to get started on sewing very soon after waking and checking
-  into the PA system, before browsing/Instagram fills the window. A
-  morning check-in that reports browsing instead of sewing time is a
-  direct hit on this goal, not a neutral event — flag it plainly.
+  This is the goal the doomscrolling countermeasure normally targets —
+  except through 2026-08-27, when it targets the near-term priority items
+  instead (see above). A morning check-in that reports browsing instead
+  of the day's actual priority is a direct hit, not a neutral event —
+  flag it plainly.
 
-## 3. Wood chair restoration — 0/16 milestones
-- **Status:** not started. 4 chairs, all at the same (not-started) stage.
+## 2. Driving theory test
+- **Color:** violet.
+- **Status:** just starting. No exam booked.
+- **Deadline:** complete before December 2026 (~19 weeks remaining from
+  2026-08-17).
+- **Study method:** has a driving theory app but doesn't use it — this
+  system replaces it, no integration/sync.
+- **Target pace:** 3-5 hours/week.
+- **Slip threshold:** 2 days of silence before flagged.
+- **Travel handling:** travel-compatible — stays flagged as normal during
+  travel windows.
+- **Last logged:** none yet (pre-first-entry).
+- **Notes:** at "just starting" with ~19 weeks left and a 3-5 hr/week
+  target, needs roughly 60-95 hours of study logged by end of Dec 2026 if
+  that target holds. Watch pace weekly, not just streak. Study blocks are
+  booked weekly as 50-minute Focusmate sessions.
+
+## 3. Fitness — running
+- **Color:** aqua.
+- **Status:** active habit — running, not calisthenics.
+- **Current practice:** ~5x/week, ~45 min/session.
+- **Target:** 5x/week.
+- **Slip threshold:** 1 day of silence before flagged.
+- **Travel handling:** travel-incompatible — not flagged for silence
+  during a known travel window.
+- **Last logged:** none yet (pre-first-entry).
+- **Notes:** high target frequency (5x/week) with a 1-day fuse means this
+  goal will flag fast on any gap — that's the stated intent, not a bug.
+
+## 4. Reading
+- **Color:** magenta.
+- **Status:** active — currently reading *Clement* by Romain Lemire.
+- **Goal type:** consistency-focused (a few pages/chapters most days),
+  secondary interest in volume but no fixed book-count target set.
+- **Slip threshold:** 1 day of silence before flagged.
+- **Travel handling:** travel-compatible — stays flagged as normal during
+  travel windows.
+- **Last logged:** none yet (pre-first-entry).
+- **Notes:** no book-count target to compute pace against — track
+  consistency (days read vs. days silent) as the primary signal.
+
+### Near-term (until 2026-08-27): Renaissance study notes — 0/3 milestones
+- **Status:** top priority alongside the grandmother's-house task (see
+  override above). Trip prep for Belgium — the Ghent Altarpiece is the
+  special focus.
+- **Milestones:**
+  1. [ ] Northern Renaissance — notes.
+  2. [ ] Venetian Renaissance — notes.
+  3. [ ] Ghent Altarpiece — deep-dive (special focus).
+- **Deadline:** 2026-08-27 (day before departure).
+- **Progress metric:** milestones, not pages/hours.
+- **Last logged:** none yet (pre-first-entry).
+
+## 5. AOB ("all other business")
+Catch-all for physical/craft projects outside the four pillars above.
+Explicitly lower-pressure "treat" territory — still tracked under
+no-complacency, just with longer fuses and no hard deadlines by default.
+
+- **Color:** orange.
+
+### Near-term (until 2026-08-27): Grandmother's house — 0/2 milestones
+- **Status:** top priority alongside the Renaissance notes (see override
+  above).
+- **Milestones:**
+  1. [ ] Fill and paint over the wall holes.
+  2. [ ] Rearrange / rehang the paintings.
+- **Deadline:** 2026-08-27 (day before departure).
+- **Slip threshold:** 1 day of silence before flagged, for the duration
+  of its priority window (2026-08-17 to 2026-08-27) — matches the
+  urgency the override implies. Reverts to standard AOB (4-day) handling
+  after 2026-08-27 if unfinished, or drops off once complete.
+- **Last logged:** none yet (pre-first-entry).
+
+### Wood chair restoration — 0/16 milestones
+- **Status:** not started. 4 wood-and-straw cord chairs.
 - **Milestones (shared list, tracked per chair):**
   1. Sanding
   2. Filling holes
   3. Painting
   4. Cord cleaning
-- **Chairs:**
-  - Chair 1 — [ ] [ ] [ ] [ ] — 0/4, not started.
-  - Chair 2 — [ ] [ ] [ ] [ ] — 0/4, not started.
-  - Chair 3 — [ ] [ ] [ ] [ ] — 0/4, not started.
-  - Chair 4 — [ ] [ ] [ ] [ ] — 0/4, not started.
+- **Groups (display collapses to these two, not four individual chairs):**
+  - **Chairs 1-3** — combined progress, 0/12 milestones, not started.
+  - **Chair 4** — 0/4 milestones, not started. Deliberately done last and
+    kept untouched until then — held back on purpose as a reference for
+    the original colour and finish, not a project that's behind.
 - **Deadline:** none — explicitly a low-pressure "treat" project, not a
   scheduled obligation.
 - **Progress metric:** per-chair milestone completion (16 total across
@@ -152,24 +227,7 @@ blocked, not just absent, in the dashboard.
   silence outside a travel window still gets flagged, just on a longer
   (4-day) fuse than sewing.
 
-## 4. Fitness
-- **Status:** active habit — running, not calisthenics.
-- **Current practice:** ~5x/week, ~45 min/session.
-- **Target:** 5x/week.
-- **Slip threshold:** 1 day of silence before flagged.
-- **Travel handling:** travel-incompatible — not flagged for silence
-  during a known travel window.
-- **Last logged:** none yet (pre-first-entry).
-- **Notes:** high target frequency (5x/week) with a 1-day fuse means this
-  goal will flag fast on any gap — that's the stated intent, not a bug.
-
-## 5. Reading
-- **Status:** active — currently reading *Clement* by Romain Lemire.
-- **Goal type:** consistency-focused (a few pages/chapters most days),
-  secondary interest in volume but no fixed book-count target set.
-- **Slip threshold:** 1 day of silence before flagged.
-- **Travel handling:** travel-compatible — stays flagged as normal during
-  travel windows.
-- **Last logged:** none yet (pre-first-entry).
-- **Notes:** no book-count target to compute pace against — track
-  consistency (days read vs. days silent) as the primary signal.
+### Queued (blocked until chairs complete)
+- **Bench cushion** — to follow once all 4 chairs are restored (including
+  Chair 4, held back as reference until last). No detail yet; ask when
+  the chairs are done, same pattern as sewing's queued projects.

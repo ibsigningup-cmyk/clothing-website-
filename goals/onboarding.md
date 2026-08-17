@@ -79,3 +79,38 @@ needed to become multiple tracked projects instead of one.
 9. Flagging during travel: **skip flagging goals that aren't
    travel-compatible (e.g. sewing, chair restoration, running); other
    goals continue to be flagged as normal.**
+
+---
+
+## Run 3 — 2026-08-18 (recalibration: display order, AOB category, near-term priority)
+
+Trigger: dashboard display requests plus two new bounded near-term goals
+— agenda genuinely shifted, not just a display tweak.
+
+### Display order
+1. Modal day pattern: **sewing → driving theory (Focusmate) → running →
+   reading**, in that order.
+2. AOB (chairs) moves to the bottom of the display — "treat" status,
+   lower pressure than the four pillars above it.
+
+### Wood chair restoration — regrouping
+3. Collapse display into **two groups: Chairs 1-3, and Chair 4 on its
+   own.** Chair 4 is done last, deliberately kept untouched, to serve as
+   a reference for the original colour and finish.
+
+### Near-term priority (until 2026-08-27)
+4. Two main goals until Belgium travel begins:
+   1. **Grandmother's house** — rearrange the paintings, fill and paint
+      the wall holes.
+   2. **Renaissance study notes** — Northern and Venetian Renaissance,
+      special focus on the Ghent Altarpiece (Belgium trip prep).
+   These supersede "sewing first" for this window only; reverts
+   2026-08-27.
+
+### Category color-coding
+5. Assign a fixed color per category: **sewing, driving, reading,
+   running, AOB** (AOB covers chairs now, a bench cushion once the
+   chairs are done). Colors validated for light/dark + colorblind-safe
+   contrast: sewing blue, driving violet, running aqua, reading magenta,
+   AOB orange — kept distinct from the dashboard's existing status
+   palette (confirmed/target/warning/blocked).
