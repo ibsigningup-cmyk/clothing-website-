@@ -118,6 +118,32 @@ three weeks gets exactly the same scrutiny as one that's currently
 struggling — not less.
 
 ## Push cadence
+Live as of 2026-08-18 via two Claude Code Remote Routines (scheduled
+triggers), both self-bound to this session so firings resume this same
+conversation:
+- **PA daily push** (`trig_01WnzVLmeZKocFSuZ1SHwiyF`) — `30 7 * * *` UTC
+  = 9:30 Central European time daily. Note: fixed UTC cron does not
+  auto-adjust for DST — after CEST ends (late Oct 2026) this will land at
+  8:30 local until the cron is updated to `30 8 * * *`.
+- **PA weekly check-in** (`trig_01XGJTuLWQeQ8LVaphR9v4XP`) — `0 8 * * 0`
+  UTC = Sunday 10:00 Central European time. Same DST caveat applies
+  (update to `0 9 * * 0` after DST ends).
+
+**Connector limitation:** this org's trigger policy does not pass
+connector (Gmail/Calendar) access to scheduled-trigger firings, even
+though a live interactive session can use them directly. Practical
+effect: the daily/weekly push delivers via chat only — no automatic
+email copy, no automatic calendar cross-check — until either the org
+policy changes or the user creates the routine from the claude.ai
+routines UI instead (which may grant connectors differently). Don't
+assume email delivery is wired up; if asked to email something, do it
+from a live session, not by editing the trigger prompt to attempt it.
+
+**Calendar sync is manual-on-request, not automatic:** key dates were
+written to Google Calendar once, directly, in a live session (see "Key
+dates" in `/goals/active.md`). New or changed dates need the same
+treatment in a live session — the scheduled triggers can't do this
+themselves per the limitation above.
 
 ### Daily
 - One consolidated daily message, delivered proactively — not waiting to
@@ -198,8 +224,10 @@ weighting — its bottom position reflects its "treat" status, not urgency.
   colors (confirmed/target/warning/blocked) stay a separate palette from
   these — never reuse a category color for status, or vice versa.
 
-Generated on request until the scheduled-push mechanism (see Push
-cadence) exists; once it does, the same rendering logic can back it.
+Generated on request only — the scheduled push (see Push cadence) now
+exists and delivers text via chat, but it does not auto-regenerate this
+HTML view; ask explicitly ("show my dashboard") when a fresh render is
+wanted.
 
 ## Data layout
 - `/goals/questionnaire.md` — the landing questionnaire text (static,

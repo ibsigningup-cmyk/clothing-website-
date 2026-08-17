@@ -1,9 +1,22 @@
 # Active goals
 
 Last calibrated: 2026-08-17 (initial onboarding, run 1).
-Last recalibrated: 2026-08-18 (run 3 — display order, AOB category +
-color-coding, chair regrouping, near-term priority override).
+Last recalibrated: 2026-08-18 (run 4 — Calendar/Gmail integration,
+scheduled push live, Cofnas notes added).
 Weekly time available (stated): 10+ hours/week combined.
+Timezone: Central European (Europe/Brussels).
+
+**Integrations (as of 2026-08-18):**
+- **Google Calendar:** linked, write-direction. All 5 rows in "Key dates"
+  below are mirrored as events on the primary calendar. Sync is
+  manual-on-request in a live session, not automatic — see CLAUDE.md's
+  Push cadence section for why the scheduled triggers can't do this.
+- **Gmail:** linked, but not yet wired to actually send anything — the
+  daily/weekly push does not email a copy, due to an org policy that
+  blocks connector access on scheduled triggers. Chat-only for now.
+- **Scheduled push:** live via two Claude Code Remote Routines — daily
+  9:30 CEST, weekly Sunday 10:00 CEST. Trigger IDs and the DST caveat are
+  recorded in CLAUDE.md's Push cadence section.
 
 Display order (modal day pattern): **sewing → driving theory → running →
 reading → AOB** (AOB always last — "treat" status, not urgency).
@@ -33,17 +46,19 @@ itself. If the caftan isn't on track heading into Sept 8, that's still
 worth surfacing before the gap opens, not after.
 
 ## Near-term priority override (until 2026-08-27)
-Two goals hold top priority through the day before Belgium travel begins,
-**superseding "sewing first" for this window only**:
+Three goals hold top priority through the day before Belgium travel
+begins, **superseding "sewing first" for this window only**:
 
 1. **Grandmother's house** (AOB) — rearrange the paintings; fill and
    paint over the wall holes.
 2. **Renaissance study notes** (Reading) — Northern and Venetian
    Renaissance, with special focus on the Ghent Altarpiece. Direct trip
    prep — the altarpiece is in Ghent, on the Belgium itinerary.
+3. **Cofnas notes** (Reading) — notes on Cofnas' moral realism and moral
+   inequality articles.
 
-Both are bounded, dated items — see their category sections below for
-milestones. Standing goals (sewing, driving theory, running, ongoing
+All three are bounded, dated items — see their category sections below
+for milestones. Standing goals (sewing, driving theory, running, ongoing
 reading) stay tracked at their normal slip thresholds during this window;
 they're just not what the daily "one thing" points to. **From
 2026-08-27, priority weighting reverts to sewing-first** (the standing
@@ -178,6 +193,16 @@ blocked, not just absent, in the dashboard.
   1. [ ] Northern Renaissance — notes.
   2. [ ] Venetian Renaissance — notes.
   3. [ ] Ghent Altarpiece — deep-dive (special focus).
+- **Deadline:** 2026-08-27 (day before departure).
+- **Progress metric:** milestones, not pages/hours.
+- **Last logged:** none yet (pre-first-entry).
+
+### Near-term (until 2026-08-27): Cofnas notes — 0/2 milestones
+- **Status:** top priority alongside the other two near-term items (see
+  override above).
+- **Milestones:**
+  1. [ ] Moral realism article — notes.
+  2. [ ] Moral inequality article — notes.
 - **Deadline:** 2026-08-27 (day before departure).
 - **Progress metric:** milestones, not pages/hours.
 - **Last logged:** none yet (pre-first-entry).

@@ -114,3 +114,38 @@ Trigger: dashboard display requests plus two new bounded near-term goals
    contrast: sewing blue, driving violet, running aqua, reading magenta,
    AOB orange — kept distinct from the dashboard's existing status
    palette (confirmed/target/warning/blocked).
+
+---
+
+## Run 4 — 2026-08-18 (Calendar/Gmail integration, scheduled push, new near-term item)
+
+Trigger: explicit request to link external accounts and move from
+on-request pushes to a genuinely proactive system.
+
+### New near-term item (before 2026-08-27)
+1. **Cofnas notes** — notes on Cofnas' moral realism and moral inequality
+   articles. Added under Reading, alongside the existing two near-term
+   items (grandmother's house, Renaissance notes) — the override window
+   now covers three items, all due 2026-08-27.
+
+### Google Calendar
+2. Use: **write key dates as events** (not read-only, not both).
+   Result: all 5 "Key dates" rows mirrored as all-day events on the
+   primary calendar as of 2026-08-18. This is a one-time write, not an
+   ongoing sync — see the connector limitation below.
+
+### Gmail
+3. Use: **send the daily/weekly push as email too**, as a backup
+   delivery channel alongside chat. **Not actually wired up** — the org's
+   trigger policy blocks connector access on scheduled triggers, so
+   scheduled firings can't call Gmail. Flagged to the user; chat-only for
+   now.
+
+### Scheduled push
+4. Timezone: **Central European (Europe/Brussels)**.
+5. Cadence: **daily at 9:30, weekly Sunday at 10:00** (both local CEST) —
+   supersedes the "8-9am / Sunday evening" preference recorded at
+   onboarding (run 1, answers 14-15).
+6. Mechanism: two Claude Code Remote Routines, self-bound to this
+   session (fires resume this conversation rather than spawning new
+   ones). Trigger IDs recorded in CLAUDE.md's Push cadence section.
