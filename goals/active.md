@@ -26,6 +26,17 @@ happens. Daily push should prompt starting sewing immediately after
 waking and checking in — see sewing goal notes below and the "Known
 pitfalls" section in CLAUDE.md.
 
+## Key dates
+Dated commitments across all goals, for the dashboard's countdown cards.
+Update as soon as a date is confirmed, moved, or booked.
+
+| Date | What | Status |
+|---|---|---|
+| 2026-09-02 | Caftan pattern-maker appointment | Confirmed |
+| Week of 2026-09-07 | Caftan (S-M) soft deadline | Target |
+| ~2026-08-17 to 2026-08-31 (exact dates TBC) | Travel, under a week long | Dates unconfirmed |
+| End of Dec 2026 | Driving theory test deadline (no exam booked) | Target |
+
 ---
 
 ## 1. Driving theory test
@@ -50,14 +61,14 @@ carry detail; the queued ones are deliberately undetailed — do not ask
 about them until both active projects are complete.
 
 ### Active
-#### a. Caftan (size S-M, priority project)
+#### a. Caftan (size S-M, priority project) — 0/4 milestones
 - **Status:** priority project this month. Prototype already sewn; fit
   issues identified.
-- **Current work, in order:**
-  1. Finish the caftan pattern for size S-M.
-  2. Upsize the pattern to L and XL.
-  3. Fix the neck facing sewing problem (armscye/sleeve correction).
-  4. Upsize/downsize the pattern to L and XS.
+- **Milestones, in order:**
+  1. [ ] Finish the caftan pattern for size S-M.
+  2. [ ] Upsize the pattern to L and XL.
+  3. [ ] Fix the neck facing sewing problem (armscye/sleeve correction).
+  4. [ ] Upsize/downsize the pattern to L and XS.
 - **Key date:** pattern-maker appointment **2026-09-02** to correct
   armscye/sleeve fit and discuss upsizing.
 - **Soft deadline:** caftan pattern for size S-M should be completed by
@@ -72,9 +83,10 @@ about them until both active projects are complete.
   the caftan.
 - **Last logged:** none yet (pre-first-entry).
 
-### Queued (not yet detailed)
+### Queued (blocked until caftan + bias top complete)
 Ask about each of these — stage, deadline, progress metric — only once
-the caftan and bias top are both complete. Do not ask early.
+the caftan and bias top are both complete. Do not ask early; render as
+blocked, not just absent, in the dashboard.
 - Wool trousers
 - Poplin trousers
 - Raglan sleeve coat
@@ -93,13 +105,22 @@ the caftan and bias top are both complete. Do not ask early.
   morning check-in that reports browsing instead of sewing time is a
   direct hit on this goal, not a neutral event — flag it plainly.
 
-## 3. Wood chair restoration
+## 3. Wood chair restoration — 0/16 milestones
 - **Status:** not started. 4 chairs, all at the same (not-started) stage.
-- **Milestones per chair:** sanding → filling holes → painting → cord
-  cleaning.
+- **Milestones (shared list, tracked per chair):**
+  1. Sanding
+  2. Filling holes
+  3. Painting
+  4. Cord cleaning
+- **Chairs:**
+  - Chair 1 — [ ] [ ] [ ] [ ] — 0/4, not started.
+  - Chair 2 — [ ] [ ] [ ] [ ] — 0/4, not started.
+  - Chair 3 — [ ] [ ] [ ] [ ] — 0/4, not started.
+  - Chair 4 — [ ] [ ] [ ] [ ] — 0/4, not started.
 - **Deadline:** none — explicitly a low-pressure "treat" project, not a
   scheduled obligation.
-- **Progress metric:** per-chair milestone completion.
+- **Progress metric:** per-chair milestone completion (16 total across
+  the set).
 - **Slip threshold:** 4 days of silence before flagged.
 - **Travel handling:** travel-incompatible — not flagged for silence
   during a known travel window.

@@ -130,6 +130,38 @@ Also delivered proactively, once a week. Two parts, in this order:
    `/goals/active.md` — this is a light touch-up to emphasis, not a reset.
    It does not replace or trigger a full recalibration.
 
+## Dashboard
+On request (e.g. "show my dashboard," "what's the one thing today"),
+generate an HTML view from the current state of `/goals/active.md` and
+`/daily/`. This is a rendering layer, not a separate data store — the
+files stay the source of truth. Two views:
+
+### Now view
+- **The one thing:** a single next concrete action, not a status list.
+  Computed from priority weighting + nearest deadline — currently the
+  next unchecked milestone on the caftan (see Sewing & pattern-making).
+  Recompute this as priority weighting shifts; don't hardcode it to one
+  goal permanently.
+- **Countdown cards:** nearest dated commitments, pulled from the "Key
+  dates" block in `/goals/active.md`, each with its status.
+- **Due now:** a short cross-goal list of anything overdue or imminent —
+  distinct from the daily push's skeleton, this is a standing view.
+
+### Category views
+- **Project-based goals** (sewing projects, each of the 4 chairs):
+  rendered as a segmented progress bar against that project's milestone
+  list, plus an expandable checklist (done / current / not started).
+- **Recurring goals** (driving theory test, fitness, reading): rendered
+  as streak/pace stats (days logged vs. silent, current streak or slip),
+  not a progress bar — they have no discrete milestones to segment.
+- **Dependency blocking:** queued sewing projects (wool trousers, poplin
+  trousers, raglan sleeve coat) render as blocked until both the caftan
+  and bias top are marked complete — show this in the view itself, not
+  just as a text note.
+
+Generated on request until the scheduled-push mechanism (see Push
+cadence) exists; once it does, the same rendering logic can back it.
+
 ## Data layout
 - `/goals/questionnaire.md` — the landing questionnaire text (static,
   read on first run).
