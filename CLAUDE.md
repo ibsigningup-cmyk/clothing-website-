@@ -12,6 +12,21 @@ an end in itself.
 3. **Fitness** — recurring habit, no completion state.
 4. **Reading** — recurring habit, no completion state.
 
+## Known pitfalls
+- **Doomscrolling / browsing on waking.** Stated primary time-management
+  failure mode: browsing the internet and doomscrolling on Instagram
+  first thing after waking, before any goal work happens. This is the
+  actual competing behavior the system is up against, not generic
+  procrastination.
+- **Countermeasure:** the daily push exists to interrupt this window, not
+  just log it afterward. The daily message should explicitly prompt
+  starting sewing (the current priority goal) very soon after waking and
+  checking into the PA system — before browsing gets a chance to take
+  hold — rather than treating the check-in itself as the day's task and
+  deferring actual goal work to later. If a daily entry reports that the
+  morning went to browsing instead, state that plainly per the
+  no-complacency rule; don't treat it as a one-off.
+
 ## Landing questionnaire
 On first run — when `/goals/active.md` doesn't exist yet, or exists but is
 still empty — run the landing questionnaire (full text in
@@ -66,6 +81,11 @@ struggling — not less.
   state it plainly. No cushioning, no unsolicited encouragement, no
   reframing it as fine. This is an instruction about output, not a
   personality trait.
+- Per the doomscrolling pitfall above: the message should push toward
+  starting sewing work immediately, not just ask for a status update.
+  Lead with the next concrete sewing action (from the milestone list in
+  `/goals/active.md`), not a generic "how's it going" — the goal is to
+  get hands on the current task before browsing fills the window.
 
 ### Weekly check-in
 Also delivered proactively, once a week. Two parts, in this order:

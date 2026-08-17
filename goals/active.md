@@ -9,6 +9,11 @@ Priority weighting this month: **sewing first**, others secondary but still
 tracked with full scrutiny (no-complacency rule applies regardless of
 weighting).
 
+Known pitfall: doomscrolling / browsing on waking, before any goal work
+happens. Daily push should prompt starting sewing immediately after
+waking and checking in — see sewing goal notes below and the "Known
+pitfalls" section in CLAUDE.md.
+
 ---
 
 ## 1. Driving theory test
@@ -42,7 +47,12 @@ weighting).
 - **Last logged:** none yet (pre-first-entry).
 - **Notes:** open-ended craft work overall, but has a real near-term
   deadline (appointment + soft target) driving current priority. Track
-  against the milestone list above, not a vague "worked on it."
+  against the milestone list above, not a vague "worked on it." This is
+  also the goal used to counter the doomscrolling pitfall: the intent is
+  to get started on sewing very soon after waking and checking into the
+  PA system, before browsing/Instagram fills the window. A morning check-in
+  that reports browsing instead of sewing time is a direct hit on this
+  goal, not a neutral event — flag it plainly.
 
 ## 3. Fitness
 - **Status:** active habit — running, not calisthenics.
