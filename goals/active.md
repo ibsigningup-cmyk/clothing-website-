@@ -22,7 +22,8 @@ weighting).
 - **Last logged:** none yet (pre-first-entry).
 - **Notes:** at "just starting" with ~19 weeks left and a 3-5 hr/week
   target, needs roughly 60-95 hours of study logged by end of Dec 2026 if
-  that target holds. Watch pace weekly, not just streak.
+  that target holds. Watch pace weekly, not just streak. Study blocks are
+  booked weekly as 50-minute Focusmate sessions.
 
 ## 2. Sewing pattern development
 - **Status:** priority goal this month. Prototype (caftan) already sewn;
@@ -34,7 +35,8 @@ weighting).
   4. Upsize/downsize the pattern to L and XS.
 - **Key date:** pattern-maker appointment **2026-09-02** to correct
   armscye/sleeve fit and discuss upsizing.
-- **Soft deadline:** second week of September 2026.
+- **Soft deadline:** caftan pattern for size S-M should be completed by
+  the second week of September 2026.
 - **Progress metric:** specific milestones (not hours).
 - **Slip threshold:** 1 day of silence before flagged.
 - **Last logged:** none yet (pre-first-entry).
