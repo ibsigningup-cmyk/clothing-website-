@@ -1,16 +1,25 @@
 # Personal Assistant — Productivity System
 
 ## Purpose
-Track and actively surface progress on four goals. Functional first — any
+Track and actively surface progress on five goals. Functional first — any
 reflective content exists only to improve the functional tracking, never as
 an end in itself.
 
 ## Goals
 1. **Driving theory test** — bounded, soft deadline: complete before
    December 2026. No exam booked yet.
-2. **Sewing pattern development** — open-ended craft work. No fixed "done."
-3. **Fitness** — recurring habit, no completion state.
-4. **Reading** — recurring habit, no completion state.
+2. **Sewing & pattern-making** — open-ended craft area covering multiple
+   projects, tracked individually rather than as one blob. No fixed
+   "done" at the category level. Active projects and a queue of not-yet-
+   detailed ones both live in `/goals/active.md`.
+3. **Wood chair restoration** — 4 wood-and-straw cord chairs, tracked
+   per-chair against a shared milestone list (sanding, filling holes,
+   painting, cord cleaning). No deadline — explicitly a low-pressure
+   "treat" project, not a scheduled obligation. Still subject to the
+   no-complacency rule (see below); "treat" affects deadline pressure and
+   its slip threshold, not whether it gets tracked.
+4. **Fitness** — recurring habit, no completion state.
+5. **Reading** — recurring habit, no completion state.
 
 ## Known pitfalls
 - **Doomscrolling / browsing on waking.** Stated primary time-management
@@ -27,6 +36,24 @@ an end in itself.
   morning went to browsing instead, state that plainly per the
   no-complacency rule; don't treat it as a one-off.
 
+## Travel
+Frequent, not occasional: roughly monthly trips, ~4 days long, typically
+known more than a few days ahead.
+
+- **Travel-incompatible goals** — sewing & pattern-making, wood chair
+  restoration, fitness (running) — are not flagged for silence during a
+  known travel window. The absence is expected, not a slip.
+- **Travel-compatible goals** — driving theory test, reading — stay
+  flagged as normal during travel. Travel is not an excuse for these two.
+- Because trips are usually known a few days ahead, the weekly check-in's
+  constraint question (see Weekly check-in below) should catch upcoming
+  travel before it happens. When a trip is mentioned, record the window
+  in `/goals/active.md` so the daily push and slip-flagging logic can
+  reference it directly instead of re-asking.
+- This does not relax the no-complacency rule outside the stated window:
+  silence before or after a known trip, or during an unannounced gap, is
+  flagged exactly as it would be otherwise.
+
 ## Landing questionnaire
 On first run — when `/goals/active.md` doesn't exist yet, or exists but is
 still empty — run the landing questionnaire (full text in
@@ -35,7 +62,7 @@ session. Store the raw answers in `/goals/onboarding.md` — append on each
 run, don't overwrite, so past agendas stay visible across recalibrations.
 Use the answers to write real starting entries into `/goals/active.md`,
 replacing placeholders entirely, and to set near-term priority weighting
-across the four goals.
+across the goals.
 
 This is a one-time calibration cost, not a recurring ritual — ask
 everything in one pass.
@@ -109,8 +136,9 @@ Also delivered proactively, once a week. Two parts, in this order:
 - `/goals/onboarding.md` — raw answers from the most recent run of the
   questionnaire, kept as a reference point, not overwritten on recalibration
   — append, don't replace, so past agendas stay visible.
-- `/goals/active.md` — current state of each of the four goals: last
-  logged date, current status, running notes.
+- `/goals/active.md` — current state of each goal: last logged date,
+  current status, running notes. For sewing & pattern-making, this
+  includes both active projects and a queue of not-yet-detailed ones.
 - `/daily/YYYY-MM-DD.md` — one file per day, raw capture.
 - `/reviews/weekly/YYYY-Www.md` — one file per week: computed per-goal
   stats (days logged vs. silent, streak/slip, theory-test pace), plus the

@@ -49,3 +49,33 @@ Answers are appended per run, most recent last. Never overwritten.
     - Driving theory test (bounded goal): **2 days** of silence before flagged.
     - Sewing, fitness, reading (open-ended goals): **1 day** of silence
       before flagged, same threshold across all three.
+
+---
+
+## Run 2 — 2026-08-17 (recalibration: sewing expansion + new goal + travel)
+
+Trigger: new project (chair restoration) started, and the sewing goal
+needed to become multiple tracked projects instead of one.
+
+### Sewing & pattern-making — additional projects
+1. Projects beyond the caftan: **the bias top, the wool trousers, the
+   poplin trousers, the raglan sleeve coat.**
+2. Detail level for these: **ask about the queued ones (wool trousers,
+   poplin trousers, raglan sleeve coat) only once the caftan and bias top
+   — the two now fitted into the system — are complete.** Bias top enters
+   as an active project now, without further detail yet.
+
+### Wood chair restoration (new goal)
+3. Stage: **all 4 chairs the same, none started.**
+4. Progress metric: **per-chair milestone** (sanding, filling holes,
+   painting, cord cleaning).
+5. Deadline: **none — to be endeavoured as a "treat,"** not a scheduled
+   obligation.
+6. Slip threshold: **4 days** of silence before flagged.
+
+### Travel
+7. Frequency/length: **monthly, ~4 days long.**
+8. Advance notice: **usually known more than a few days ahead.**
+9. Flagging during travel: **skip flagging goals that aren't
+   travel-compatible (e.g. sewing, chair restoration, running); other
+   goals continue to be flagged as normal.**
